@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Apoorv-Krishn-DAS
+- 👋 Hi, I’m @Apoorv Raj
 - 👀 I’m interested in ML.AI,DATA_SCIENCE
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
